@@ -1,0 +1,13 @@
+C:\Users\Radek\source\repos\widthNumber\widthNumber\bin\Debug\netcoreapp3.1\widthNumber.exe
+C:\Users\Radek\source\repos\widthNumber\widthNumber\bin\Debug\netcoreapp3.1\widthNumber.deps.json
+C:\Users\Radek\source\repos\widthNumber\widthNumber\bin\Debug\netcoreapp3.1\widthNumber.runtimeconfig.json
+C:\Users\Radek\source\repos\widthNumber\widthNumber\bin\Debug\netcoreapp3.1\widthNumber.runtimeconfig.dev.json
+C:\Users\Radek\source\repos\widthNumber\widthNumber\bin\Debug\netcoreapp3.1\widthNumber.dll
+C:\Users\Radek\source\repos\widthNumber\widthNumber\bin\Debug\netcoreapp3.1\widthNumber.pdb
+C:\Users\Radek\source\repos\widthNumber\widthNumber\obj\Debug\netcoreapp3.1\widthNumber.csprojAssemblyReference.cache
+C:\Users\Radek\source\repos\widthNumber\widthNumber\obj\Debug\netcoreapp3.1\widthNumber.AssemblyInfoInputs.cache
+C:\Users\Radek\source\repos\widthNumber\widthNumber\obj\Debug\netcoreapp3.1\widthNumber.AssemblyInfo.cs
+C:\Users\Radek\source\repos\widthNumber\widthNumber\obj\Debug\netcoreapp3.1\widthNumber.csproj.CoreCompileInputs.cache
+C:\Users\Radek\source\repos\widthNumber\widthNumber\obj\Debug\netcoreapp3.1\widthNumber.dll
+C:\Users\Radek\source\repos\widthNumber\widthNumber\obj\Debug\netcoreapp3.1\widthNumber.pdb
+C:\Users\Radek\source\repos\widthNumber\widthNumber\obj\Debug\netcoreapp3.1\widthNumber.genruntimeconfig.cache
